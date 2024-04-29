@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap");
 Body, html {
-cursor: url("https://static.wikia.nocookie.net/friendshipverse/images/5/56/Charmander.png/revision/latest?cb=20221220050349"), default;
+cursor: url("Charmander.ico"), default;
 /* just change the cursor.ico path to your location */
 }
 
